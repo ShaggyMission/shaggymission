@@ -1,4 +1,4 @@
-# 🐾 ¡Hola! Soy el creador de Shaggy Mission
+# 🐾 Hello! I'm the creator of Shaggy Mission
 
 <div align="center">
 
@@ -7,30 +7,30 @@
 
 </div>
 
-## 🌟 Acerca de Shaggy Mission
+## 🌟 About Shaggy Mission
 
-**Shaggy Mission** es una aplicación móvil dedicada al **rescate y adopción de perros y gatos**. 
+**Shaggy Mission** is a mobile app dedicated to the **rescue and adoption of dogs and cats**.
 
-### 🎯 ¿Para qué fue creada?
+### 🎯 What is it for?
 
-Esta app conecta:
-- 🏠 **Familias** que buscan adoptar una mascota
-- 🆘 **Rescatistas** que necesitan encontrar hogares
-- 💝 **Voluntarios** que quieren ayudar en rescates
-- 🏥 **Veterinarios** que brindan atención médica
+This app connects:
+- 🏠 **Families** looking to adopt a pet  
+- 🆘 **Rescuers** needing to find loving homes  
+- 💝 **Volunteers** who want to help with rescues  
+- 🏥 **Veterinarians** who provide medical care  
 
-### ✨ Funcionalidades principales:
+### ✨ Key Features:
 
-🔍 **Búsqueda de mascotas** por ubicación y características  
-📱 **Perfiles detallados** de cada perrito y gatito  
-🆘 **Sistema de reportes** para casos de emergencia  
-💌 **Chat integrado** entre adoptantes y rescatistas  
-📊 **Dashboard** para organizaciones de rescate  
-📸 **Galería de fotos** de antes y después  
+🔍 **Pet search** by location and characteristics  
+📱 **Detailed profiles** of each dog and cat  
+🆘 **Emergency reporting system**  
+💌 **Integrated chat** between adopters and rescuers  
+📊 **Dashboard** for rescue organizations  
+📸 **Photo gallery** showing before and after  
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I Use
 
 <div align="center">
 
@@ -43,30 +43,30 @@ Esta app conecta:
 
 ---
 
-## 💡 Mi misión personal
+## 💡 My Personal Mission
 
-> *Crear tecnología que genere impacto social positivo, especialmente para nuestros amigos de cuatro patas que no tienen voz propia.*
+> *To create technology that makes a positive social impact, especially for our four-legged friends who cannot speak for themselves.*
 
-Este repositorio contiene todos los proyectos relacionados con **Shaggy Mission**: desde la app principal hasta herramientas auxiliares, APIs y documentación.
+This repository contains all projects related to **Shaggy Mission**: from the main app to supporting tools, APIs, and documentation.
 
 ---
 
-## 📂 ¿Qué encontrarás aquí?
+## 📂 What Will You Find Here?
 
-- 📱 **App principal** - Código fuente de la aplicación móvil
-- 🔧 **API Backend** - Servicios y base de datos
-- 🎨 **Recursos de diseño** - UI/UX y assets
-- 📚 **Documentación** - Guías de instalación y uso
-- 🛠️ **Herramientas** - Scripts y utilidades
+- 📱 **Main App** – Source code of the mobile application  
+- 🔧 **Backend API** – Services and database  
+- 🎨 **Design Resources** – UI/UX and assets  
+- 📚 **Documentation** – Setup and usage guides  
+- 🛠️ **Tools** – Scripts and utilities  
 
 ---
 
 <div align="center">
 
-### 🐶 *"Cada línea de código puede salvar una vida"* 🐱
+### 🐶 *"Every line of code can save a life"* 🐱
 
-**Si te gusta lo que hago, ¡dale una estrella a mis proyectos!** ⭐
+**If you like what I do, give my projects a star!** ⭐
 
-*Rescatando vidas a través de la tecnología* 💜
+*Saving lives through technology* 💜
 
 </div>
